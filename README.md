@@ -1,7 +1,11 @@
 # 🚗 Line Follower Robot  
 *A beginner-friendly hands-on robotics project*
+
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/fecb607c-cb29-4140-87b5-06402d62b8ac" />
+
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/fd7a056e-74ea-4310-90f7-be3b0444b1e8" />
+
+
 
 
 ---
@@ -43,6 +47,12 @@ The project was done purely for **self-learning and curiosity**.
 - **Team size:** 15 members  
 - **Experience level:** Everyone was a beginner  
 - **My role:** Team Lead & Main Developer  
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/669548c8-41fe-4cd2-99a4-62ddd790fd9b" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/545715e4-a3d1-4bab-8977-0aa2ec362fa5" />
+
+
 
 ### What I did as a leader:
 - First learned Arduino basics myself  
@@ -190,6 +200,9 @@ The Arduino continuously reads sensor inputs and controls the motors through the
 - Tested on a **greyish floor** with black tape  
 - Did not work perfectly in the first run  
 
+<img width="1242" height="706" alt="image" src="https://github.com/user-attachments/assets/6cb04aac-7dce-45da-80ed-a8c46fcae93a" />
+
+
 ### Issues observed:
 - Robot going out of track  
 - Failing at intersections  
@@ -201,6 +214,9 @@ The Arduino continuously reads sensor inputs and controls the motors through the
 
 **Final result:**  
 Works reliably for **simple curves and straight paths**.
+
+<img width="773" height="1280" alt="image" src="https://github.com/user-attachments/assets/92c03504-a9ec-4774-b75e-6c525974d84d" />
+
 
 ---
 
