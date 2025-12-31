@@ -1,5 +1,8 @@
 # 🚗 Line Follower Robot  
 *A beginner-friendly hands-on robotics project*
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/fecb607c-cb29-4140-87b5-06402d62b8ac" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/fd7a056e-74ea-4310-90f7-be3b0444b1e8" />
+
 
 ---
 
