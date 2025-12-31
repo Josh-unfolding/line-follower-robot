@@ -1,5 +1,6 @@
 # 🚗 Line Follower Robot  
-*A beginner-friendly hands-on robotics project*
+> TL;DR: A basic Arduino-based line follower robot built to learn sensors, motor control, and real hardware debugging.
+
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/fecb607c-cb29-4140-87b5-06402d62b8ac" />
 
